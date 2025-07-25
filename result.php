@@ -1,3 +1,4 @@
+<h1>Form submission result</h1>
 <?php
 if(isset($_POST["submit"])){
     $phone_number=$_POST["phonenumber"];
