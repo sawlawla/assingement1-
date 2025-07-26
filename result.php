@@ -14,10 +14,10 @@ if(isset($_POST["submit"])){
         }
         else{
        if($key == "phonenumber"){
-        echo "Phonenumber : $_POST[$key] <br><br>";
+        echo "$value : $_POST[$key] <br><br>";
        }
         elseif($key == "email"){
-        echo "Email : $_POST[$key] <br><br>";
+        echo "$value : $_POST[$key] <br><br>";
        }
        elseif($key == "password"){
         echo "$value is set <br><br>";
