@@ -54,7 +54,7 @@
 <input type = "checkbox" name="department" value = "Computer department">Computer
 <input type = "checkbox" name="department" value = "Business department" >Business<br><br><!--SawLawla!-->
 
-Course:<!--Mosselinthat!-->
+Course:<!--Marcellus!-->
 <label for="course">Course:</label>
 <select name="course" id="course">
   <option value="" disabled selected>Select Course</option>
@@ -68,7 +68,7 @@ City: <input type="text" name="city"><br><br>
 Address: <textarea name="address" rows="3"></textarea><br><br>
 
 
-<input type = "submit" name = "submit" value = "Register"><!--Mosselinthat!-->
+<input type = "submit" name = "submit" value = "Register"><!--Marcellus!-->
 </form>
 
 </body>
